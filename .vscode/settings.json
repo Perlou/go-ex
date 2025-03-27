@@ -1,0 +1,10 @@
+{
+    "[go]": {
+        "editor.inlineSuggest.enabled": false,
+        "editor.suggest.preview": false,
+        "editor.suggest.showInlineDetails": false,
+        "editor.inlayHints.enabled": false,
+        "editor.suggestSelection": "first",
+        "editor.suggest.snippetsPreventQuickSuggestions": false
+    }
+}
